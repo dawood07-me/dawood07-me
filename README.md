@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Dawood07 Me" src="art/header-light.png">
+</picture>
 <!--
 **dawood07-me/dawood07-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
